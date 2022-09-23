@@ -1420,6 +1420,11 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
+"@types/react-native-razorpay@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@types/react-native-razorpay/-/react-native-razorpay-2.2.0.tgz#7eef21d7e82007318d5fad4f1864978e0c60dd7b"
+  integrity sha512-/ByRrHh8+SvmaVl11LYc/hFDquF1UsO4BpSVCsccMNAKRR9rfg80s/6tQfZPTTlOPVjVlxp0PXKaf4BQya/9DA==
+
 "@types/react-native@^0.69.3":
   version "0.69.3"
   resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.69.3.tgz#344074ef5a8b95815128cceb4d1dc212d115faf3"
@@ -5671,6 +5676,11 @@ react-native-gradle-plugin@^0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.7.tgz#96602f909745239deab7b589443f14fce5da2056"
   integrity sha512-+4JpbIx42zGTONhBTIXSyfyHICHC29VTvhkkoUOJAh/XHPEixpuBduYgf6Y4y9wsN1ARlQhBBoptTvXvAFQf5g==
+
+react-native-razorpay@^2.2.9:
+  version "2.2.9"
+  resolved "https://registry.yarnpkg.com/react-native-razorpay/-/react-native-razorpay-2.2.9.tgz#895ba57084466ad89777c158edc56e9ceaad4999"
+  integrity sha512-88k38mW+XcENaJPfEN7qaOjMT2e8ueEcFTIGAov2H8h4+NnMlwQ1cjEHK0T5oixCJrekWBh2lpZAf2pVEUR84w==
 
 react-native@0.69.2:
   version "0.69.2"
